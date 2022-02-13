@@ -1,5 +1,5 @@
 <span align="center">
-  <h1>Olá, sou dev fullstack apaixonado por ui/ux design e entusiasta em tecnologia💜</h1>
+  <h1>Olá, sou Dev FullStack apaixonado por UI/UX Design e entusiasta em tecnologia💜</h1>
 </span>
 <div align="center">
   <a href="https://github.com/leomvidal10">
