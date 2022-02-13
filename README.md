@@ -1,6 +1,6 @@
-<div align="center">
+<span align="center">
   <h1>Olá meu nome é Leonardo Martins, sou dev fullstack apaixonado por ui/ux design e entusiasta em tecnologia 💜</h1>
-</div>
+</span>
 <div align="center">
   <a href="https://github.com/leomvidal10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomvidal10&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
