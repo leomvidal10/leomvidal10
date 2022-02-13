@@ -1,5 +1,5 @@
 <span align="center">
-  <h1>Olá meu nome é Leonardo Martins, sou dev fullstack apaixonado por ui/ux design e entusiasta em tecnologia 💜</h1>
+  <h1>Olá, sou dev fullstack apaixonado por ui/ux design e entusiasta em tecnologia💜</h1>
 </span>
 <div align="center">
   <a href="https://github.com/leomvidal10">
