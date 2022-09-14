@@ -1,8 +1,4 @@
 ## Olá, sou Dev FullStack apaixonado por UI/UX Design e entusiasta em tecnologia💜
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leomvidal10&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomvidal10&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="leo-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
